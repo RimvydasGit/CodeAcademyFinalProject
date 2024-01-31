@@ -37,7 +37,7 @@ The project is built using Spring, React frameworks, and MySQL.
 - Install the required dependencies: `npm install`, `npm install semantic-ui-react`
 - Start the react application: `npm start`
 - Build and run spring server
-- Create your own env file in order to pass correct property values
+
 
 ## Usage
 
