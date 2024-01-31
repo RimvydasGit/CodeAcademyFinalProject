@@ -32,7 +32,8 @@ The project is built using Spring, React frameworks, and MySQL.
 ## Installation
 
 - Clone the repository to your local machine: `git clone https://github.com/RimvydasGit/CodeAcademyFinalProject.git`
-- Configure env file according to your settings and place it in '/server' in order to run server, more details inside file.
+- Create MySql DB with schema named 'fullstack_db'
+- Configure env file according to your settings and place it in '/server' in order to run server, more details inside file
 - Install the required dependencies: `npm install`, `npm install semantic-ui-react`
 - Start the react application: `npm start`
 - Build and run spring server
